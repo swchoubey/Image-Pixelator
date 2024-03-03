@@ -4,9 +4,9 @@ This Python script utilizes Pillow to transform images into their pixelated vers
 
 ### Expected Outcome
 
-<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/774321a6-06a9-4345-b77b-869386203d34" width="300" title="Original Image"> <img src = "[https://github.com/swchoubey/Image-Pixelator/assets/97143500/774321a6-06a9-4345-b77b-869386203d34](https://github.com/swchoubey/Image-Pixelator/assets/97143500/47fb25d7-714e-4d14-827a-7be2c8f7333b)" width="50" title="cols 64"> 
-<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/2be7939c-a94e-4b27-90e2-c1ec3a9fb9b6" width="300" title="Pixelated Image"> <img src = "[https://github.com/swchoubey/Image-Pixelator/assets/97143500/774321a6-06a9-4345-b77b-869386203d34](https://github.com/swchoubey/Image-Pixelator/assets/97143500/47fb25d7-714e-4d14-827a-7be2c8f7333b)" width="50" title="cols 6"> 
-<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/e7f00ef2-0f35-411d-b6ca-0fdd85ac6fec" width="300" title="Color Palette">
+<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/774321a6-06a9-4345-b77b-869386203d34" width="290" title="Original Image"> <img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/47fb25d7-714e-4d14-827a-7be2c8f7333b" width="50" title="cols 64"> 
+<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/2be7939c-a94e-4b27-90e2-c1ec3a9fb9b6" width="290" title="Pixelated Image"> <img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/47fb25d7-714e-4d14-827a-7be2c8f7333b" width="50" title="cols 6"> 
+<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/e7f00ef2-0f35-411d-b6ca-0fdd85ac6fec" width="290" title="Color Palette">
 
 ## Usage
 
