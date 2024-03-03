@@ -3,9 +3,10 @@
 This Python script utilizes Pillow to transform images into their pixelated versions. It's a simple program that takes an image as input, resizes it, extracts each color from the smaller image, and uses these colors to create a pixelated representation.
 
 ### Expected Outcome
-![strawbs](https://github.com/swchoubey/Image-Pixelator/assets/97143500/774321a6-06a9-4345-b77b-869386203d34 | width=100)
-![pix](https://github.com/swchoubey/Image-Pixelator/assets/97143500/2be7939c-a94e-4b27-90e2-c1ec3a9fb9b6 | width=100)
-![pallette](https://github.com/swchoubey/Image-Pixelator/assets/97143500/e7f00ef2-0f35-411d-b6ca-0fdd85ac6fec | width=100)
+
+<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/774321a6-06a9-4345-b77b-869386203d34" width="100">
+<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/2be7939c-a94e-4b27-90e2-c1ec3a9fb9b6" width="100">
+<img src = "https://github.com/swchoubey/Image-Pixelator/assets/97143500/e7f00ef2-0f35-411d-b6ca-0fdd85ac6fec" width="100">
 
 ## Usage
 
